@@ -1,0 +1,32 @@
+_repo: Robinson-koulu-Seikkailuromaani-Tyyneltamerelta_58779
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2019-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58779'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Robinson-koulu
+
+  Seikkailuromaani Tyyneltämereltä'
+url: http://www.gutenberg.org/ebooks/58779
